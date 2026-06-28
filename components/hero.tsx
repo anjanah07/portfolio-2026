@@ -50,14 +50,14 @@ export function Hero() {
             Resume
             <Download className="h-4 w-4" />
           </a>
-
-          <a
+          {/*ToDo - Add Projects*/}
+          {/* <a
             href="#projects"
             className="inline-flex items-center gap-2 rounded-full border border-violet-300/25 bg-violet-300/10 px-6 py-3 text-sm font-semibold text-violet-100 transition hover:border-violet-200/60"
           >
             Systems Built
             <ExternalLink className="h-4 w-4" />
-          </a>
+          </a> */}
         </div>
       </motion.div>
 
