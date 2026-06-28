@@ -88,8 +88,8 @@ export default function Home() {
           ))}
         </div>
       </Section>
-
-      <Section
+      {/*ToDo - Add Projects*/}
+      {/* <Section
         id="projects"
         eyebrow="selected systems"
         title="Work shaped as portfolio-ready systems."
@@ -121,7 +121,7 @@ export default function Home() {
             </article>
           ))}
         </div>
-      </Section>
+      </Section> */}
 
       <Section
         id="skills"
